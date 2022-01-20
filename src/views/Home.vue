@@ -1,7 +1,11 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img
+      class="mx-auto"
+      alt="Vue logo"
+      src="https://www.datocms-assets.com/48401/1628644787-tailwind-vue.png"
+    >
+    <HelloWorld msg="Welcome to Your Vue + Tailwind App" />
   </div>
 </template>
 
